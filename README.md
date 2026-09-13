@@ -1,3 +1,5 @@
+> **Note:** this is a copy of [Asymmetrik/node-fhir-server-mongo](https://github.com/Asymmetrik/node-fhir-server-mongo), kept here while I was evaluating FHIR servers for a healthcare project in 2022. All credit to the Asymmetrik team. Nothing below is my work.
+
 # Asymmetrik FHIR API Server + Mongo Example
 
 [![Build Status](https://travis-ci.org/Asymmetrik/node-fhir-server-mongo.svg?branch=master)](https://travis-ci.org/Asymmetrik/node-fhir-server-mongo)
